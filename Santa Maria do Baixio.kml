@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+	<name>Santa Maria do Baixio.kml</name>
+    <Point>
+      <coordinates>
+      					-58.05074692399995,-16.49226323648575
+      </coordinates>
+    </Point>
+  </Placemark>
+</kml>
